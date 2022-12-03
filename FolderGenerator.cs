@@ -1,3 +1,5 @@
+// Generate Default(Custom) Folder
+
 #if UNITY_EDITOR
 using System.IO;
 using UnityEditor;
