@@ -1,4 +1,4 @@
-//Download and Import External Dependency Manager, Facebook, AppsFlyer, GameAnalytics
+//Download and Import: External Dependency Manager, Facebook, AppsFlyer, GameAnalytics
 
 #if UNITY_EDITOR
 using System.IO;
