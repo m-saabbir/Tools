@@ -1,3 +1,5 @@
+// Generate .gitignore in Project Folder
+
 #if UNITY_EDITOR
 using System.IO;
 using UnityEngine;
