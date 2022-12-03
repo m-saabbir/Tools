@@ -6,7 +6,7 @@ using System.Net.Http;
 
 public class GitignoreGenerator
 {
-    private const string url = "https://gist.github.com/SAA33IR/427c9d60a9d862bf21d3e97c7b86cac3/raw";
+    private const string url = "https://raw.githubusercontent.com/github/gitignore/main/Unity.gitignore";
     private const string filename = ".gitignore";
 
     [MenuItem("Tools/Generate .gitignore")]
