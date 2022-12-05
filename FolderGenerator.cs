@@ -1,4 +1,4 @@
-// Generate Default(Custom) Folder
+// Generates Default(Custom) Folder
 
 #if UNITY_EDITOR
 using System.IO;
