@@ -1,4 +1,4 @@
-// Generate .gitignore in Project Folder
+// Generates .gitignore in Project Folder
 
 #if UNITY_EDITOR
 using System.IO;
